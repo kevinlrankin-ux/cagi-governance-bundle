@@ -94,9 +94,16 @@ Licensing is **negotiable** and **context-dependent** by design.
 
 ## Repository structure
 
+constitution/
+bindings/
+amendment_process/
+explainers/
+digests/
+README.md
 
 ---
 
 ## Contact / stewardship
 
 This bundle is stewarded under **Creative-Bio Solutions LLC (CBS)** as constitutional infrastructure for reuse across ventures.
+
